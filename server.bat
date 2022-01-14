@@ -1,0 +1,1 @@
+java -jar out/server.jar
