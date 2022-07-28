@@ -1,5 +1,5 @@
 # chat-app-javaswing
-This is the project of the course Java Application Development of VNU-HCMUS in which I created a chat app which allows user to chat with multiples currently online friends. 
+This is the project of the course Java Application Development of VNU-HCMUS in which I created a chat app which allows user to chat with multiples online friends. 
 ## Tools and Libraries
 - Intellij IDE
 - Javaswing (for GUI)
